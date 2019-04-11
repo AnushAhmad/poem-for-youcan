@@ -7,5 +7,6 @@ yellow
 green
 orange
 brown
+purple
 
 these are colors in poem
