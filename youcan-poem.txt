@@ -1,5 +1,6 @@
 poem for youcan and ponies
 Today is earth day ,adding comment to issue
+Add "This fixes #4 " will automatically remove element
 pink
 red
 blue
